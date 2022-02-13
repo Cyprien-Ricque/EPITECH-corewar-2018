@@ -3,7 +3,7 @@ Epitech project whose goal is to recreate a VM running fighing programs within t
 
 ### Developers
 
-Emilien Delevoye
-Charles Dubret
-Paul Surrans
-Cyprien Ricque
+Emilien Delevoye <br>
+Charles Dubret <br>
+Paul Surrans <br>
+Cyprien Ricque <br>
